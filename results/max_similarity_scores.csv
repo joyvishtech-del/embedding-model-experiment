@@ -1,0 +1,13 @@
+model,query,best_match,best_similarity,model_path,model_load_seconds
+MiniLM,AI in healthcare,AI helps doctors diagnose disease,0.81341,all-MiniLM-L6-v2,3.902
+MiniLM,Italian food dishes,Restaurants serve a variety of Italian meals,0.806428,all-MiniLM-L6-v2,3.902
+MiniLM,popular sports competitions,Football is the most popular sport,0.602118,all-MiniLM-L6-v2,3.902
+BGE,AI in healthcare,AI helps doctors diagnose disease,0.846701,BAAI/bge-small-en-v1.5,3.719
+BGE,Italian food dishes,Italian cuisine includes pasta and cheese,0.862681,BAAI/bge-small-en-v1.5,3.719
+BGE,popular sports competitions,Sports teams compete for championships,0.790041,BAAI/bge-small-en-v1.5,3.719
+E5,AI in healthcare,AI helps doctors diagnose disease,0.850575,intfloat/e5-base-v2,3.696
+E5,Italian food dishes,Restaurants serve a variety of Italian meals,0.869713,intfloat/e5-base-v2,3.696
+E5,popular sports competitions,Sports teams compete for championships,0.830615,intfloat/e5-base-v2,3.696
+MXBAI,AI in healthcare,AI helps doctors diagnose disease,0.821649,mixedbread-ai/mxbai-embed-large-v1,3.702
+MXBAI,Italian food dishes,Restaurants serve a variety of Italian meals,0.853547,mixedbread-ai/mxbai-embed-large-v1,3.702
+MXBAI,popular sports competitions,Sports teams compete for championships,0.78431,mixedbread-ai/mxbai-embed-large-v1,3.702

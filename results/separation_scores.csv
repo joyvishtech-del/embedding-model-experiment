@@ -1,0 +1,13 @@
+model,query,relevant_category,relevant_avg_similarity,non_relevant_avg_similarity,separation_score
+MiniLM,AI in healthcare,healthcare,0.443172,0.033632,0.40954
+MiniLM,Italian food dishes,food,0.54025,0.009553,0.530698
+MiniLM,popular sports competitions,sports,0.409378,0.049815,0.359562
+BGE,AI in healthcare,healthcare,0.712005,0.407017,0.304989
+BGE,Italian food dishes,food,0.718652,0.407225,0.311427
+BGE,popular sports competitions,sports,0.681945,0.517745,0.1642
+E5,AI in healthcare,healthcare,0.799366,0.626963,0.172404
+E5,Italian food dishes,food,0.805119,0.641509,0.16361
+E5,popular sports competitions,sports,0.768337,0.699052,0.069285
+MXBAI,AI in healthcare,healthcare,0.681033,0.286417,0.394616
+MXBAI,Italian food dishes,food,0.690935,0.328416,0.362519
+MXBAI,popular sports competitions,sports,0.650284,0.421707,0.228578
