@@ -19,12 +19,12 @@ meaning and retrieve relevant text.
 
 ## Models Compared
 
-  Model    HuggingFace Model                    Embedding Dimension
-  -------- ------------------------------------ ---------------------
-  MiniLM   all-MiniLM-L6-v2                     384
-  BGE      BAAI/bge-small-en-v1.5               384
-  E5       intfloat/e5-base-v2                  768
-  MXBAI    mixedbread-ai/mxbai-embed-large-v1   1024
+| Model | HuggingFace Model | Embedding Dimension |
+|------|------------------|--------------------|
+| MiniLM | all-MiniLM-L6-v2 | 384 |
+| BGE | BAAI/bge-small-en-v1.5 | 384 |
+| E5 | intfloat/e5-base-v2 | 768 |
+| MXBAI | mixedbread-ai/mxbai-embed-large-v1 | 1024 |
 
 ## Dataset
 
